@@ -29,3 +29,6 @@ If you're not familiar with git, here's a good [overview on git on Quora](https:
 `git push origin your-initials/name-of-feature`. Note: never type `git push origin master`. [Don't be that person who pushes to master](https://8thlight.com/blog/sandro-padin/2015/06/08/help-i-just-force-pushed-to-master.html) :) 
 
 - [ ] Create a [pull request on GitHub](https://help.github.com/articles/creating-a-pull-request/). Ask a teammate to approve your request.
+
+## Bonus
+Read about [merging vs. rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing/).

@@ -23,9 +23,9 @@ If you're not familiar with git, here's a good [overview on git on Quora](https:
 ` git pull origin master`. This is an important step! This makes sure you are handling all (if any) merge conflicts on your computer
 
 - [ ] Merge the master branch with your feature branch:
-` git checkout initials-nameoffeature` and then merge your branch: `git merge master initials-nameoffeature`. If you have conflicts, you will see an alert. Resolve the conflicts.
+` git checkout your-initials/name-of-feature` and then merge your branch: `git merge master your-initials/name-of-feature`. If you have conflicts, you will see an alert. Resolve the conflicts.
 
 - [ ] Then push up your feature branch:
-`git push origin initials-nameoffeature`. Note: never type `git push origin master`. [Don't be that person who pushes to master](https://8thlight.com/blog/sandro-padin/2015/06/08/help-i-just-force-pushed-to-master.html) :) 
+`git push origin your-initials/name-of-feature`. Note: never type `git push origin master`. [Don't be that person who pushes to master](https://8thlight.com/blog/sandro-padin/2015/06/08/help-i-just-force-pushed-to-master.html) :) 
 
 - [ ] Create a pull request on GitHub. Ask a teammate to approve your request.
